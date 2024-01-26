@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izan32&" alt="izan32" /></p>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/654297d44352f418f8068bfb?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/654297d44352f418f8068bfb?variant=dark&roadmaps=game-developer%2Cflutter%2Cjavascript%2Creact)](https://roadmap.sh)
